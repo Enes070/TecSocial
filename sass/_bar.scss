@@ -1,0 +1,11 @@
+.bar{
+    width: 800px;
+    height: 50px;
+    margin-left: 500px;
+    background-color: lightsteelblue;
+    display: flex;
+    flex-flow: row nowrap;
+    max-width: 450;
+    box-shadow: 10px 10px 5px gray;
+    justify-content: space-around;
+}
