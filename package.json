@@ -1,0 +1,22 @@
+{
+  "name": "tecsocial",
+  "version": "1.0.0",
+  "description": "TecSocial homepage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enes070/TecSocial.git"
+  },
+  "author": "Enes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enes070/TecSocial/issues"
+  },
+  "homepage": "https://github.com/Enes070/TecSocial#readme",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
